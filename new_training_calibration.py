@@ -33,4 +33,3 @@ def new_calibration_18cm():
 new_calibration_18cm()
 
 
-# lag ny funksjon og ta ut de 

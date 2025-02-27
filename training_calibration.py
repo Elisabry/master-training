@@ -31,3 +31,11 @@ def calibration_18cm():
     cb.plot()
     cb.saveas("calibration_18cm.json")
 calibration_18cm()
+
+
+
+
+
+if __name__ == '__main__':
+
+    calibration_18cm()
